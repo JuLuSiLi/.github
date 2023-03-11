@@ -1,6 +1,6 @@
 # :wave: This is us!
 
-We are five and long-term friends from Germany with a common interest in programming.
+We are five students and long-term friends from Germany with a common interest in programming.
 Together, we work on all sorts of projects, whenever we have a "nice idea" over one or two beers.
 
 We hope you find these projects interesting or useful, because we surely do!
